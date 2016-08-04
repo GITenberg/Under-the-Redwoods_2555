@@ -1,0 +1,33 @@
+_repo: Under-the-Redwoods_2555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: Jimmy's big brother from California -- The youngest Miss Piper --
+  A widow of the Santa Ana Valley -- The mermaid of Lighthouse Point -- Under the
+  eaves -- How Reuben Allen "saw life" in San Francisco -- Three vagabonds of Trinidad
+  -- A vision of the fountain -- A romance of the line -- Bohemian days in San Francisco.
+title: Under the Redwoods
+url: http://www.gutenberg.org/ebooks/2555
